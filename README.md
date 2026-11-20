@@ -1,10 +1,15 @@
-# Meta-Analysis-XAI-Shading
-A Data-Driven Meta-Analysis of External Shading Performance on Daylight, Glare, and Energy: An Explainable Machine Learning Approach Across 5 Major Climates
 # Meta-Analysis of External Shading Performance (XAI Approach)
 
 This repository contains the Python code used for the data analysis and Explainable Machine Learning (XAI) modeling in the following manuscript:
 
 **Title:** A Data-Driven Meta-Analysis of External Shading Performance on Daylight, Glare, and Energy: An Explainable Machine Learning Approach Across 5 Major Climates
+
+## Authors & Contributions
+- **Prof. Mohammadjavad Mahdavinejad** (First Author)
+- **Mohammadreza Moghimi** (Second Author & Lead Developer of this Code) 
+  - *GitHub Username:* `moghimimrm`
+  - *Contribution:* Data extraction, Python coding, statistical analysis, ML modeling (XGBoost, Ridge), and SHAP analysis.
+- **Iman Baratvakili** (Third Author)
 
 ## Overview
 This project integrates a unified database of 178 configurations from 6 empirical studies. The analysis is divided into two main phases:
